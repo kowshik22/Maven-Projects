@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.niit.model.Category"/>
+<fullyQualifiedTypeName name="com.niit.dao.CategoryDAO"/>
+<fullyQualifiedTypeName name="javax.transaction.Transactional"/>
+<fullyQualifiedTypeName name="com.niit.dao.ProductDAO"/>
+<fullyQualifiedTypeName name="com.niit.dao.SupplierDAO"/>
+<fullyQualifiedTypeName name="org.springframework.transaction.annotation.Transactional"/>
+<fullyQualifiedTypeName name="com.niit.model.UserRole"/>
+<fullyQualifiedTypeName name="com.niit.model.User"/>
+<fullyQualifiedTypeName name="com.niit.dao.UserDetailsDAO"/>
+<fullyQualifiedTypeName name="com.niit.model.UserDetails"/>
+</qualifiedTypeNameHistroy>
